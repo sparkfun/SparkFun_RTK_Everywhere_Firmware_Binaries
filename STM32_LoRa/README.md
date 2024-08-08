@@ -3,7 +3,7 @@ SparkFun RTK Everywhere STM32 LoRa Firmware
 
 This folder contains the firmware that runs on the STM32WLE5CCU6 microcontroller with integrated LoRa radio. Currently, only the SparkFun RTK Torch has this hardware built-in. Therefore, this firmware is only meant for the RTK Torch, and specifically, only loaded on the STM32.
 
-Please see the **[RTK Everywhere Product Manual](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/)** for a detailed guide on how to update the firmware on the STM32 within the Torch.
+Please see the **[Updating STM32 Firmware](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/firmware_update_stm32/)** for a detailed guide on how to update the firmware on the STM32 within the Torch.
 
 <table class="table table-hover table-striped table-bordered">
   <tr align="center">

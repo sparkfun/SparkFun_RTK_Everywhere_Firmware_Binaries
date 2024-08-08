@@ -31,9 +31,9 @@ Repository Contents
 -------------------
 
 * **/** - Pre-compiled binaries of SparkFun RTK Everywhere firmware, suitable for loading (see [Updating Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/)). 
-* **/STM32_LoRa** - Pre-compiled binaries for the STM32WLE5 that controls the LoRa radio in the RTK Torch.
-* **/Uploader_GUI** - A link to the [RTK Uploader Repo](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader) which contains the GUI for updating the firmware on RTK units. See [Updating Firmware From GUI](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-firmware-using-windows-gui).
-* **/u-blox_Update_GUI** - A python and Windows executable GUI for updating the firmware on the u-blox modules within the RTK device (ZED-F9x and NEO-D9S primarily but all u-blox GNSS products are supported). See [Updating u-blox Firmware](https://docs.sparkfun.com/SparkFun_RTK_Firmware/firmware_update/#updating-u-blox-firmware).
+* **/STM32_LoRa** - Pre-compiled binaries for the STM32WLE5 that controls the LoRa radio in the RTK Torch. See [Updating STM32 Firmware](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/firmware_update_stm32/).
+* **/Uploader_GUI** - A link to the [RTK Uploader Repo](https://github.com/sparkfun/SparkFun_RTK_Firmware_Uploader) which contains the GUI for updating the ESP32 firmware on RTK units. See [Updating Firmware From GUI](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/firmware_update_esp32/#updating-firmware-using-the-uploader-gui).
+* **/u-blox_Update_GUI** - A python and Windows executable GUI for updating the firmware on the u-blox modules within the RTK device (ZED-F9x and NEO-D9S primarily but all u-blox GNSS products are supported). See [Updating u-blox Firmware](https://docs.sparkfun.com/SparkFun_RTK_Everywhere_Firmware/firmware_update_ublox/).
 * **/ZED Firmware** - Copies of Binaries from u-blox for loading onto ZED-F9x
 
 License Information
