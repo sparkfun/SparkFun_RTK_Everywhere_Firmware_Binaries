@@ -2,7 +2,7 @@ model,subsystem,version_major,version_minor,version_patch,human_readable,file_pa
 evk,esp,3,3,0,v3.3,\RTK_Everywhere_Firmware_v3_3.bin,3236512,6979f191
 evk,zed-f9p,1,51,0,v1.51,\gnss\zed-f9p\UBX_F9_100_HPG151_ZED_F9P.6c43b30ccfed539322eccedfb96ad933.bin,,
 fp,esp,3,3,0,v3.3,\RTK_Everywhere_Firmware_v3_3.bin,3236512,6979f191
-fp,zed-f20p,2,2,0,v2.02,\gnss\zed-x20p\UBX_20_HPG_202_ZED_F20P.329facb56ce18631d607fe15177834dc.bin,1095012,90e54861
+fp,Zed-x20p,2,2,0,v2.02,\gnss\zed-x20p\UBX_20_HPG_202_ZED_F20P.329facb56ce18631d607fe15177834dc.bin,1095012,90e54861
 fp,lg290p,2,1,0,v2.1,\gnss\lg290p\LG290P03AANR02A01S.pkg,,
 fp,um980,17548,0,0,v17548,\gnss\um980\UM980_R4.10Build17548.pkg,,
 fp,mosaic-x5,4,14,10.1,v4.14.10.1,\gnss\mosaic-x5\mosaic-X5-4.14.10.1.suf,,
