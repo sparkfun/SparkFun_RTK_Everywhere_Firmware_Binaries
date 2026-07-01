@@ -5,7 +5,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -16,7 +17,8 @@
     "version_major": 1,
     "version_minor": 51,
     "version_patch": 0,
-    "human_readable": "v1.51",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\zed-f9p\\UBX_F9_100_HPG151_ZED_F9P.6c43b30ccfed539322eccedfb96ad933.bin",
     "file_size": "",
     "file_crc32": ""
@@ -27,10 +29,23 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
+  },
+  {
+    "model": "FPL",
+    "subsystem": "ESP32",
+    "version_major": 3,
+    "version_minor": 4,
+    "version_patch": 0,
+    "version_revision": 0,
+    "release_candidate": 1,
+    "file_path": "\\RTK_Everywhere_Firmware_RC-Jun_25_2026.bin",
+    "file_size": "",
+    "file_crc32": ""
   },
   {
     "model": "FPL",
@@ -38,7 +53,8 @@
     "version_major": 2,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v2.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\lg290p\\LG290P03AANR02A01S.pkg",
     "file_size": "",
     "file_crc32": ""
@@ -49,9 +65,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -60,7 +77,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -71,7 +89,8 @@
     "version_major": 2,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v2.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\lg290p\\LG290P03AANR02A01S.pkg",
     "file_size": "",
     "file_crc32": ""
@@ -82,9 +101,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -93,7 +113,8 @@
     "version_major": 11,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v11.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\imu\\im19\\20260302210315_VH2_B2.2_A11.1_6bf04becee0bda310e65d.enc",
     "file_size": "",
     "file_crc32": ""
@@ -104,7 +125,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -115,7 +137,8 @@
     "version_major": 2,
     "version_minor": 2,
     "version_patch": 0,
-    "human_readable": "v2.02",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\zed-x20p\\UBX_20_HPG_202_ZED_F20P.329facb56ce18631d607fe15177834dc.bin",
     "file_size": 1095012,
     "file_crc32": null
@@ -126,9 +149,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -137,7 +161,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -148,7 +173,8 @@
     "version_major": 2,
     "version_minor": 2,
     "version_patch": 0,
-    "human_readable": "v2.02",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\zed-x20p\\UBX_20_HPG_202_ZED_F20P.329facb56ce18631d607fe15177834dc.bin",
     "file_size": 1095012,
     "file_crc32": null
@@ -159,9 +185,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -170,7 +197,8 @@
     "version_major": 11,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v11.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\imu\\im19\\20260302210315_VH2_B2.2_A11.1_6bf04becee0bda310e65d.enc",
     "file_size": "",
     "file_crc32": ""
@@ -181,7 +209,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -191,8 +220,9 @@
     "subsystem": "mosaic-X5",
     "version_major": 4,
     "version_minor": 14,
-    "version_patch": 10.1,
-    "human_readable": "v4.14.10.1",
+    "version_patch": 10,
+    "version_revision": 1,
+    "release_candidate": 0,
     "file_path": "\\gnss\\mosaic-x5\\mosaic-X5-4.14.10.1.suf",
     "file_size": "",
     "file_crc32": ""
@@ -203,9 +233,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -214,7 +245,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -224,8 +256,9 @@
     "subsystem": "mosaic-X5",
     "version_major": 4,
     "version_minor": 14,
-    "version_patch": 10.1,
-    "human_readable": "v4.14.10.1",
+    "version_patch": 10,
+    "version_revision": 1,
+    "release_candidate": 0,
     "file_path": "\\gnss\\mosaic-x5\\mosaic-X5-4.14.10.1.suf",
     "file_size": "",
     "file_crc32": ""
@@ -236,9 +269,10 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
-    "file_size": 224012,
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
+    "file_size": 133668,
     "file_crc32": "3de5977a"
   },
   {
@@ -247,7 +281,8 @@
     "version_major": 11,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v11.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\imu\\im19\\20260302210315_VH2_B2.2_A11.1_6bf04becee0bda310e65d.enc",
     "file_size": "",
     "file_crc32": ""
@@ -258,7 +293,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -269,7 +305,8 @@
     "version_major": 2,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v2.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\lg290p\\LG290P03AANR02A01S.pkg",
     "file_size": "",
     "file_crc32": ""
@@ -280,7 +317,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -291,7 +329,8 @@
     "version_major": 17548,
     "version_minor": 0,
     "version_patch": 0,
-    "human_readable": "v17548",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\um980\\UM980_R4.10Build17548.pkg",
     "file_size": "",
     "file_crc32": ""
@@ -302,7 +341,8 @@
     "version_major": 11,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v11.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\imu\\im19\\20260302210315_VH2_B2.2_A11.1_6bf04becee0bda310e65d.enc",
     "file_size": "",
     "file_crc32": ""
@@ -313,8 +353,9 @@
     "version_major": 3,
     "version_minor": 0,
     "version_patch": 1,
-    "human_readable": "v3.0.1",
-    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.hex",
+    "version_revision": 0,
+    "release_candidate": 0,
+    "file_path": "\\lora\\stm32wl\\SparkPNT_LoRa_3.0.1.bin",
     "file_size": "",
     "file_crc32": ""
   },
@@ -324,7 +365,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -335,7 +377,8 @@
     "version_major": 2,
     "version_minor": 1,
     "version_patch": 0,
-    "human_readable": "v2.1",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\gnss\\lg290p\\LG290P03AANR02A01S.pkg",
     "file_size": "",
     "file_crc32": ""
@@ -346,7 +389,8 @@
     "version_major": 3,
     "version_minor": 3,
     "version_patch": 0,
-    "human_readable": "v3.3",
+    "version_revision": 0,
+    "release_candidate": 0,
     "file_path": "\\RTK_Everywhere_Firmware_v3_3.bin",
     "file_size": 3236512,
     "file_crc32": "6979f191"
@@ -356,8 +400,9 @@
     "subsystem": "mosaic-X5",
     "version_major": 4,
     "version_minor": 14,
-    "version_patch": 10.1,
-    "human_readable": "v4.14.10.1",
+    "version_patch": 10,
+    "version_revision": 1,
+    "release_candidate": 0,
     "file_path": "\\gnss\\mosaic-x5\\mosaic-X5-4.14.10.1.suf",
     "file_size": "",
     "file_crc32": ""
