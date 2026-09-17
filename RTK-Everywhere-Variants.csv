@@ -11,7 +11,7 @@ model,subsystem,chip,version_major,version_minor,version_patch,version_revision,
 #
 *,ESP32,ESP32,3,3,0,0,0,RTK_Everywhere_Firmware_v3_3.bin,3236512,0x6979f191
 *,GNSS,LG290P,2,1,0,0,0,LG290P03AANR02A01S.pkg,2688712,0xb852abe9
-*,GNSS,Mosaic-X5,4,15,1,0,0,mosaic-X5-4.15.1.suf,24088248,0x5e50709b
+*,GNSS,Mosaic-X5,4,14,10,1,0,mosaic-X5-4.14.10.1.suf,22829643,0xce009b8f
 *,GNSS,UM980,17548,0,0,0,0,UM980_R4.10Build17548.pkg,2969008,0x48e12aa0
 *,GNSS,ZED-F9P,1,51,0,0,0,UBX_F9_100_HPG151_ZED_F9P.6c43b30ccfed539322eccedfb96ad933.bin,1354632,0xf2fe231a
 *,GNSS,ZED-X20P,2,10,0,0,0,UBX_20_HPG_210_ZED_X20P-01B.512369040097ce18fd3475e71e7c627f.bin,1161860,0x87d9de3f
