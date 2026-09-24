@@ -21,4 +21,4 @@ model,subsystem,chip,version_major,version_minor,version_patch,version_revision,
 #
 *,ESP32,ESP32,3,4,0,0,0,soc/esp32/RTK_Everywhere_Firmware_v3_4.bin,3347248,0x1beb293e
 *,SOC,ESP32,3,4,0,0,0,RTK_Everywhere_Firmware_v3_4.bin,3347248,0x1beb293e
-*,SOC,ESP32,3,4,0,0,1,RTK_Everywhere_Firmware_RC-Jun_25_2026.bin,3312592,0x9c35da3e
+*,SOC,ESP32,3,4,0,0,1,RTK_Everywhere_Firmware_RC-Sep_22_2026.bin,3420464,0x2dd0c852
