@@ -7,7 +7,8 @@ model,subsystem,chip,version_major,version_minor,version_patch,version_revision,
 #
 # Retired products firmware
 #
-Placeholder,None,None,0,0,0,0,0,none,0,0x00000000 # CSV parse fix for v3.4 bug
+# Placeholder row: works around v3.4 CSV parse bug, must be first data row
+Placeholder,None,None,0,0,0,0,0,none,0,0x00000000
 #
 # Latest subsystem firmware
 #
