@@ -25,4 +25,5 @@ Placeholder,None,None,0,0,0,0,0,none,0,0x00000000
 #
 *,ESP32,ESP32,3,4,0,0,0,soc/esp32/RTK_Everywhere_Firmware_v3_4.bin,3347248,0x1beb293e
 *,SOC,ESP32,3,4,0,0,0,RTK_Everywhere_Firmware_v3_4.bin,3347248,0x1beb293e
+*,ESP32,ESP32,3,5,0,0,1,soc/esp32/RTK_Everywhere_Firmware_RC-Nov_19_2026.bin,3459536,0x6a2fc4f3
 *,SOC,ESP32,3,5,0,0,1,RTK_Everywhere_Firmware_RC-Nov_19_2026.bin,3459536,0x6a2fc4f3
